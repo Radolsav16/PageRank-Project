@@ -1,6 +1,6 @@
 # 📊 PageRank: The Math Behind Google Search
 
-Welcome to this project exploring **PageRank**, the famous algorithm that powered the early success of Google Search. This project is part of the *Math for Developers* course, designed to showcase the power of applied mathematics in solving real-world problems.
+Welcome to this project exploring and implement **PageRank**, the famous algorithm that powered the early success of Google Search. This project is part of the *Math for Developers* course, designed to showcase the power of applied mathematics in solving real-world problems.
 
 ---
 
