@@ -1,3 +1,4 @@
+# Abstract
 The primary goal of this project is to explore how modern web search engines work by investigating the mathematical foundations and practical implementations of key algorithms, including **PageRank**, **HITS**, and **BM25**.
 The project begins with an overview of the evolution of **web search**, focusing on the role of **Google Search**, and implementation of algorithms. I explore some historical perspective which sets the stage for a deep theoretical and practical dive into the core mechanisms behind these algorithms.
 I explore the mathematical underpinnings of link-based ranking systems, including concepts such as **graph theory**, **Markov chains**, **stochastic matrices**, **eigenvectors**, **stationary distributions**, and the **random surfer model**. Each algorithm is implemented from scratch using **Python**, illustrating their logic, behavior, and impact on page ranking and information retrieval.
